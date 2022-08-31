@@ -1,0 +1,12 @@
+:root {
+  --violet: hsl(257, 40%, 49%);
+  --soft-magentat: hsl(257, 40%, 49%);
+
+  --sm: 14px;
+  --md: 16px;
+  --lg: 18px;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
